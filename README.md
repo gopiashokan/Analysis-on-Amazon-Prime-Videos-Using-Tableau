@@ -23,8 +23,6 @@ Discover the magic of interactive exploration! With my Tableau dashboard, you ca
 ### Conclusion
 This enthralling odyssey into Amazon Prime Video's data landscape empowered me to provide valuable insights that can shape strategic decisions within the competitive streaming industry. Understanding viewer preferences and content trends hold the key to fostering lasting connections with audiences worldwide.
 
----
-
 ### License
 
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
@@ -32,5 +30,4 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 ### Contact
 
 For any further questions or inquiries, please contact us at gopiashokankiot@gmail.com. We are happy to assist you.
-
-LinkedIn: [https://www.linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+Connect with me on [LinkedIn](www.linkedin.com/in/gopiashokan) for more updates and projects!
